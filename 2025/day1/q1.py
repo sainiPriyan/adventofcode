@@ -1,4 +1,3 @@
-
 input_data = []
 
 with open('input.txt') as file:
